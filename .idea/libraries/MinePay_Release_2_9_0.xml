@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MinePay-Release-2.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../开发API/MinePay-Release-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

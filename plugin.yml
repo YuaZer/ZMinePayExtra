@@ -1,0 +1,10 @@
+name: ZMinePayExtra
+main: io.github.yuazer.zminepayextra.Main
+version: 0.1
+authors:
+  - YuaZer
+commands:
+  zminepayextra:
+    aliases:
+      - zme
+    description: Z菌的MinePay充值插件附属

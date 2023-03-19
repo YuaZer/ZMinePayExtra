@@ -1,0 +1,11 @@
+Message:
+  reload: "&a[&eZ&bMinePayExtra&a] &d重载成功!"
+DataClear:
+  #每天凌晨1点清除玩家数据
+  day: 1
+  #每周的周一凌晨1点清除玩家数据
+  #周几//几点
+  week: 1//1
+  #每月1号凌晨1点清除玩家数据
+  #几号//几点
+  month: 1//1

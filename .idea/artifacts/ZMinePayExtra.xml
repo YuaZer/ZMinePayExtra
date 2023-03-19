@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZMinePayExtra">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZMinePayExtra</output-path>
+    <root id="archive" name="ZMinePayExtra.jar">
+      <element id="module-output" name="ZMinePayExtra" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
